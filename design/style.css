@@ -1,0 +1,12 @@
+.grid {
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(4,100px) ;
+}
+
+.grid-1,.grid-2,.grid-3 {
+    border: solid 1px green;
+    background-color: wheat;
+}
+
+
